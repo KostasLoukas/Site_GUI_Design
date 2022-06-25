@@ -19,4 +19,9 @@ Announcements Page (after the user clicked on the "Ανακοινώσεις" on 
 Announcements Content (after the user had clicked on the "Περισσότερα" of one of the announcements):
 ![announcements2](https://user-images.githubusercontent.com/105225491/175776519-1c3ba202-5455-4892-bac5-0ce51aba8ed7.png)
 
+
+For the whole project, you can download and review this file:
+[site_gui_design.pdf](https://github.com/KostasLoukas/Site_GUI_Design/files/8984873/site_gui_design.pdf)
+
+
 Created by: [Karapiperakis Emmanouil](https://github.com/MKarapiperakis), [Konstantinos Loukas](https://github.com/KostasLoukas) and [Giwrgos Kapelos](https://github.com/GiwrgosKapelos)
