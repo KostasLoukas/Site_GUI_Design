@@ -18,3 +18,5 @@ Announcements Page (after the user clicked on the "Ανακοινώσεις" on 
 
 Announcements Content (after the user had clicked on the "Περισσότερα" of one of the announcements):
 ![announcements2](https://user-images.githubusercontent.com/105225491/175776519-1c3ba202-5455-4892-bac5-0ce51aba8ed7.png)
+
+Created by: [Karapiperakis Emmanouil](https://github.com/MKarapiperakis), [Konstantinos Loukas](https://github.com/KostasLoukas) and [Giwrgos Kapelos](https://github.com/GiwrgosKapelos)
