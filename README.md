@@ -21,7 +21,7 @@ Announcements Content (after the user had clicked on the "Περισσότερα
 
 
 For the whole project, you can download and review this file:
-[site_gui_design.pdf](https://github.com/KostasLoukas/Site_GUI_Design/files/8984873/site_gui_design.pdf) (Greek)
+[site_gui_design.pdf](https://github.com/KostasLoukas/Site_GUI_Design/files/8984873/site_gui_design.pdf) (written in Greek)
 
 
 Designed by: [Karapiperakis Emmanouil](https://github.com/MKarapiperakis), [Konstantinos Loukas](https://github.com/KostasLoukas) and [Giwrgos Kapelos](https://github.com/GiwrgosKapelos)
