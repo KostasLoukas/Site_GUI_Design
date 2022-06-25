@@ -24,4 +24,4 @@ For the whole project, you can download and review this file:
 [site_gui_design.pdf](https://github.com/KostasLoukas/Site_GUI_Design/files/8984873/site_gui_design.pdf)
 
 
-Created by: [Karapiperakis Emmanouil](https://github.com/MKarapiperakis), [Konstantinos Loukas](https://github.com/KostasLoukas) and [Giwrgos Kapelos](https://github.com/GiwrgosKapelos)
+Designed by: [Karapiperakis Emmanouil](https://github.com/MKarapiperakis), [Konstantinos Loukas](https://github.com/KostasLoukas) and [Giwrgos Kapelos](https://github.com/GiwrgosKapelos)
