@@ -2,7 +2,7 @@
 
 Our team was tasked to design a new GUI for the hospital of Tripoli, Panarkadikon. Therefore, we were able to construct the following pages
 using the Pencil app for Windows 10 (desktop). This project contains NO code whatsoever as our only job was to design a new GUI, not implement it.
-The text for the new GUI was written on Greek.
+The text used for the content of the new GUI is on Greek.
 
 Main Page showcase:
 ![mainpage](https://user-images.githubusercontent.com/105225491/175776421-dfcdc8d6-54e8-423b-8b39-dcbd72f4a6b5.png)
