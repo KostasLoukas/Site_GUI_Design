@@ -10,7 +10,7 @@ Main Page showcase:
 ![mainpage2](https://user-images.githubusercontent.com/105225491/175775279-ec25ea62-887f-47dd-8704-799e8374ff44.png)
 ![mainpage3](https://user-images.githubusercontent.com/105225491/175775295-9005ca0c-2a57-4c91-ba3c-b1da9683c02b.png)
 
-Main Page vigil days of doctors (after selecting a days from the calendar):
+Main Page with vigil days of doctors (after selecting a days from the calendar):
 ![mainpage4](https://user-images.githubusercontent.com/105225491/175775342-f99b8c3c-acff-42cb-b371-127a8511c8e8.png)
 
 Main Page dropdown menu (desktop):
