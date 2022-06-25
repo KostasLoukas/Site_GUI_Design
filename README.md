@@ -19,7 +19,6 @@ Main Page dropdown menu (desktop):
 Announcements Page (after the user clicked the "Ανακοινώσεις" hypertext):
 ![announcements1](https://user-images.githubusercontent.com/105225491/175775542-96fbfea7-2f93-444d-a476-ad5e1d61d4ca.png)
 
-![contestsearch1](https://user-images.githubusercontent.com/105225491/175775639-f1e44373-0ccb-4b1f-807a-96331b5745b9.png)
 Announcements Page (after the user clicked the "Περισσότερα" at the bottom of an announcement):
 ![announcements2](https://user-images.githubusercontent.com/105225491/175775551-6663868e-7033-49a9-a3ea-0d4d220b39dd.png)
 
