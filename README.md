@@ -16,7 +16,7 @@ Main Page with vigil days of doctors (after selecting a day from the calendar):
 Main Page dropdown menu (desktop):
 ![DropDownMenu](https://user-images.githubusercontent.com/105225491/175775415-1682b0ef-4bb6-4b6d-95a8-d77e8e43e68d.png)
 
-Announcements Page (after the user clicked the "Ανακοινώσεις" hypertext):
+Announcements Page (after the user clicked the "Ανακοινώσεις" hypertext on the main page):
 ![announcements1](https://user-images.githubusercontent.com/105225491/175775542-96fbfea7-2f93-444d-a476-ad5e1d61d4ca.png)
 
 Announcements Page (after the user clicked the "Περισσότερα" at the bottom of an announcement):
